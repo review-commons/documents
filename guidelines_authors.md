@@ -1,6 +1,8 @@
 Guidelines for authors
 ======================
 
+__Note:__ a version-controlled version of these guidelines is maintained at https://github.com/review-commons
+
 # Table of Content
 
 1. Initial submission

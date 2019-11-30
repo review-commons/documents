@@ -1,6 +1,8 @@
 Guidelines for reviewers
 ===================
 
+__Note:__ a version-controlled version of these guidelines is maintained at https://github.com/review-commons
+
 # Table of Content
 
 1. Purpose
@@ -142,5 +144,3 @@ Once you are logged into the system, click on a manuscript link preceded by a re
 If there are no red arrows visible on the "Home" page, then you are finished. There is no pending work you need to worry about.
 
 __Please note:__ since reviews are not saved until you hit the ‘Submit Recommendation’ button (below), we suggest that you compose your review using your normal word processor and copy/paste the review into this form. This will insure that you have a local copy in case of computer error. __Please save a copy of your review offline for your records before you enter it online.__
-
-
