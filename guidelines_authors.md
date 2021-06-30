@@ -25,7 +25,7 @@ Submitting a preprint or a manuscript for peer-review by _Review Commons_ implie
 
 There is no need to comply with a particular journal format to submit to _Review Commons_. 
 
-__*Review Commons* requires all authors to post their manuscript as a preprint, at the latest when the manuscript is transferred to one of the affiliate journals. In exchange, all the journals affiliated with *Review Commons* provide authors with scooping protection from the date of posting of the preprint. Note that posting of the reviews ('refereed preprint') remains optional at this time.__ See below further details on these policies ([posting of the preprint](#Mandatory-posting-of-the-preprint), [scooping protection](#Scooping-protection), [posting the reviews](#Posting-the-reviews))
+__*Review Commons* requires all authors to post their manuscript as a preprint, prior to transfer to an affiliate journal. In return, all the affiliate journals provide authors with scooping protection from the date of posting of the preprint. Note that posting of the reviews ('refereed preprint') remains optional at this time.__ See below further details on these policies ([posting of the preprint](#Mandatory-posting-of-the-preprint), [scooping protection](#Scooping-protection), [posting the reviews](#Posting-the-reviews))
 
 
 # Scope and editorial assessment

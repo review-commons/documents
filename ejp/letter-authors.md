@@ -8,7 +8,13 @@ Dear Dr. {$addressee_last_nm},
  
 Thank you for sending your manuscript entitled “{\$ms_title}” to {$journal_name}. We have now completed the peer review of the manuscript. Please find the full set of reports below.
 
-Note: since the workflow of Review Commons is new, we are more than happy to schedule a call with you in case you have further questions about the content of the reviews or about the next steps, including the transfer of the reviewed manuscript to one of the affiliate journals. Please just let us know by return email and we will schedule an appointment.
+Note: in case you have questions about the content of the reviews or about the next steps, please just let us know by return email and we will schedule an appointment.
+
+**Update to Review Commons preprint posting policy**
+As of 1 August 2021, Review Commons will require all manuscripts to be posted as a preprint on either bioRxiv or medRxiv *prior to transfer to an affiliate journal*. In return, all the affiliate journals provide authors with scooping protection from the date of posting of the preprint (see detailed guidelines: ). Please note that posting your reviews and your responses (refereed preprint) remains optional.
+
+If you have not yet posted your manuscript as a preprint at the time of transfer to an affiliate, you will have the option to do so via the Review Commons submission system.
+
 
 To access your manuscript online and proceed to the next steps, please use the link below:
 
