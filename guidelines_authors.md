@@ -105,8 +105,8 @@ It is, however, also possible for authors to request an extension of this deadli
 
 To clearly indicate to affiliate journal how the manuscripts should be considered -- a preliminary revision with a revision plan vs a fully revised study -- authors should use one of the two following template documents:
 
-- __REVISION PLAN__: [link] This document should delineate the revisions that authors <u>_plan_</u> to carry out in response to the points raised by the referees.
-- __FULL REVISION__: [link] This template should be used only if the submitted manuscript is an <u>_already fully revised manuscript_</u> in response to the points raised by the reviewers.
+- __REVISION PLAN__: [(download template)](http://reviewcommons.org/templates/revision-plan.docx) This document should delineate the revisions that authors <u>_plan_</u> to carry out in response to the points raised by the referees.
+- __FULL REVISION__: [(download template)](http://reviewcommons.org/templates/full-revision.docx) This template should be used only if the submitted manuscript is an <u>_already fully revised manuscript_</u> in response to the points raised by the reviewers.
 
 Selecting carefully one of the template above is important as it will inform the editors of affiliate journals on the intention of the authors.
 
