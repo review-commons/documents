@@ -24,8 +24,8 @@ To access your manuscript online and proceed to the next steps, please use the l
 NEXT STEPS:
 
 1. REVISION & RESPONSE TO REVIEWERS: There are 2 choices (see details: https://www.reviewcommons.org/authors/#affiliate):
-    - upload within *four weeks* an *preliminary revision* accompanied by a *revision plan*. Please use this template when submitting your preliminary revision: 
-    - or, *request more time* via email to perform a *full revision*. Please use this template when submitting your full revision:
+    - upload within *four weeks* an *preliminary revision* accompanied by a *revision plan* (download template: reviewcommons.org/templates/revision-plan.docx). Please use this template when submitting your preliminary revision: 
+    - or, *request more time* via email to perform a *full revision* (template: http://reviewcommons.org/templates/full-revision.docx). Please use this template when submitting your full revision:
 
 2. POSTING THE PREPRINT: when submitting your revision, the system will required you to post it as a preprint, if this has not yet be done before. Posting of the preprint is mandatory before transferring your manuscript to an affiliated journals. *Please note: only the preprint will posted. Posting of the reviews remains optional.*
 
