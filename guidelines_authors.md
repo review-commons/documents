@@ -8,20 +8,24 @@ __Note:__ a version-controlled version of these guidelines is maintained at http
 1. Initial submission
 2. Scope and editorial assessment
 3. The peer-review process
-4. Posting the referee reports and authors' response on bioRxiv
-5. Submitting an initial response to the reviewers
-6. Submitting to an affiliate journal
+4. Mandatory posting of the preprint
+5. Scooping protection
+6. Posting the reviews
+7. Submitting to an affiliate journal
 
 
 # Initial submission
 
 There are 2 routes to submit a research manuscript to _Review Commons_:
-- The recommended route is first to post the manuscript as a preprint on bioRxiv. The preprint can then be easily transferred directly from the bioRxiv submission system to _Review Commons_. 
-- It is also possible to submit the manuscript directly to _Review Commons_ (at http://reviewcommons.msubmit.net). Note that this route still allows subsequently to post the manuscript to bioRxiv.
 
-__Submitting a preprint or a manuscript for peer-review by _Review Commons_ implies that it reports unpublished work and that neither it, nor parts of it, have been published or are under consideration for publication in a journal.__
+- The recommended route is first to post the manuscript as a preprint on bioRxiv or medRxiv. The preprint can then be easily transferred directly from the bioRxiv or medRxiv submission system to _Review Commons_. 
+- It is also possible to submit the manuscript directly to _Review Commons_ (at http://reviewcommons.msubmit.net). Note that this route still allows subsequently to post the manuscript to bioRxiv or medRxiv.
+
+Submitting a preprint or a manuscript for peer-review by _Review Commons_ implies that it reports unpublished work and that neither it, nor parts of it, have been published or are under consideration for publication in a journal.
 
 There is no need to comply with a particular journal format to submit to _Review Commons_. 
+
+__As of August 1, 2021,*Review Commons* will require all authors to post their manuscript as a preprint, prior to transfer to an affiliate journal. In return, all the affiliate journals provide authors with scooping protection from the date of posting of the preprint. Note that posting of the reviews ('refereed preprint') remains optional at this time.__ See below further details on these policies ([posting of the preprint](#Mandatory-posting-of-the-preprint), [scooping protection](#Scooping-protection), [posting the reviews](#Posting-the-reviews))
 
 
 # Scope and editorial assessment
@@ -50,7 +54,7 @@ The initial assessment will be based on the following criteria:
 
 - Only research papers are considered (no reviews/commentaries/editorials).
 - Manuscripts must have fully-described materials & methods, fully described data figures, comprehensive references and rigorous introduction, results, and conclusions.
-- The topic falls within the scope of Review Commons (see above)
+- The topic falls within the scope of *Review Commons* (see above)
 - The findings represent a significant advance in any one of the above fields, including reports of new findings, methodological developments and resources.
 - Confirmatory, ‘null’ or refuting results will be considered if they provide significant value to the field. 
 
@@ -66,23 +70,47 @@ __*Review Commons* reserves the right to reject manuscripts at any point if ethi
 5. The Managing Editor will forward the full set of reports to the authors. The Managing Editor has the right to exclude reviews that are deemed unprofessional in tone or content.
 
 
-# Posting the referee reports and authors' response on bioRxiv
+# Mandatory posting of the preprint
 
-Once the full set of reviews is available, authors have the option to trigger the transfer of the reviews to bioRxiv to make them publicly visible. Authors may also simultaneously post their response to the reviewers, which will appear alongside the reviews. If the authors choose this option and confirm the DOI of their preprint, the reviews and their response will be visible alongside the preprint of the manuscript. Note that the reviews are posted by _Review Commons_ on behalf of the authors, which guarantees that the full set of reviews is posted and that their content cannot be altered. 
+Review Commons requires all authors to post their manuscript on a preprint server. In exchange, all the journals affiliated with *Review Commons* will provide authors with scooping protection from the date of posting of the preprint. 
+
+Review Commons manuscripts should be posted as soon as possible as a preprint and at the latest at the moment of submission to one of the affiliate journals. It will not be possible to transfer a peer reviewed *Review Commons* manuscript to an affiliate journal without posting the preprint. 
+
+Note that posting of the reviews ('refereed preprint') remains optional (see below) at this time.
+
+Authors who however would prefer not to have their manuscript posted as a preprint can withdraw their work from *Review Commons* and proceed with conventional submission to any journals.
 
 
-# Submitting an initial response to the reviewers
+# Scooping protection
 
-Upon receipt of the full set of reviews, authors will have a recommended four weeks to upload a response to the reviewers and, optionally, an initial revision of the manuscript (with all changes tracked and made visible) to _Review Commons_. 
+All the journals affiliated with *Review Commons* apply an extended scooping protection policy, whereby manuscripts reviewed by *Review Commons* are protected against scooping by competing publications from the date of posting of the cognate preprint to bioRxiv/medRixv, and, provided the manuscript was submitted to the journal within 4 months of posting the preprint. 
 
-The recommended duration for an initial revision is short. It is intended to provide authors with the possibility to address textual or presentation issues and to provide an initial response to reviewers and tentative revision plan. It is, however, also possible for authors to request an extension of this deadline if they would prefer embarking upfront on more extensive revisions. 
+The policy guarantees that if a competing paper comes out after posting such a preprint, this will not constitute grounds for potential rejection of the submission by affiliate journals.
 
-The response letter allows authors to to explain their view of the paper and the referees’ comments and delineate a revision plan. This will be useful to readers of the preprint to obtain a balanced opinion on the paper. It will also be important information for editors of affiliate journals when making a decision on what extent of revision might be realistic to request for publication. _Review Commons_ editors will not comment or advise on which revision would be required for publication in affiliate journals.
+Note that scooping protection does NOT apply to related papers with an overlapping set of authors.
+
+
+# Posting the reviews
+
+Once the full set of reviews is available, authors have the option to trigger the posting of the reviews to bioRxiv or medRxiv to make them publicly visible. Authors may also simultaneously post their response to the reviewers, which will appear alongside the reviews. If the authors choose this option and confirm the DOI of their preprint, the reviews and their response will be visible alongside the preprint of the manuscript. Note that the reviews are posted by _Review Commons_ on behalf of the authors, which guarantees that the full set of reviews is posted and that their content cannot be altered. 
 
 
 # Submitting to an affiliate journal
 
-Upon receipt of the reviews, authors can transfer their manuscript, the reviews and their response to one of the 17 journals affiliated with _Review Commons_. The transfer is triggered by authors directly from the _Review Commons_ editorial system.
+Upon receipt of the reviews, authors can transfer their manuscript, the reviews and their response to one of the 17 journals affiliated with _Review Commons_. The transfer is triggered by authors directly from the _Review Commons_ editorial system. 
+
+Authors  have a recommended four weeks to prepare an initial response to reviewers in the form of a revision plan (see link to template below), as well as a preliminary revision of the manuscript. This short period of time is intended to provide authors with the possibility to address presentation issues and other minor revisions. 
+
+It is, however, also possible for authors to request an extension of this deadline if they would prefer embarking upfront in major revisions that include additional experimentation.
+
+To clearly indicate to affiliate journal how the manuscripts should be considered -- a preliminary revision with a revision plan vs a fully revised study -- authors should use one of the two following template documents:
+
+- __REVISION PLAN__: [(download template)](http://reviewcommons.org/templates/revision-plan.docx) This document should delineate the revisions that authors <u>_plan_</u> to carry out in response to the points raised by the referees.
+- __FULL REVISION__: [(download template)](http://reviewcommons.org/templates/full-revision.docx) This template should be used only if the submitted manuscript is an <u>_already fully revised manuscript_</u> in response to the points raised by the reviewers.
+
+Selecting carefully one of the template above is important as it will inform the editors of affiliate journals on the intention of the authors.
+
+_Review Commons_ editors will not comment or advise on which revision would be required for publication in affiliate journals.
 
 Upon transfer, the recipient journal will have 10 working days to respond with an editorial decision to authors; this may be "reject", "accept as is/with minor changes", or "expression interest to publish subject to revision"; the latter will typically include explicit statements on what revision, possibly including additional experiments, the journal would require for publication.
 

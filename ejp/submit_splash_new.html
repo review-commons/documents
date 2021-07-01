@@ -2,14 +2,6 @@
     <h1>REVIEW COMMONS</h1> 
     <p>
         <strong><em>Review Commons</em> is a platform for high-quality journal-independent peer-review in the life sciences.</strong>
-        <ul>
-            <li>
-                <em>Review Commons</em> provides authors with a Refereed Preprint, which includes the authors’ manuscript, reports from a single round of peer review and the authors’ response.
-            </li>
-            <li>
-               <em>Review Commons</em> enables author-directed formal submission of Refereed Preprints to 17 journals affiliated with Review Commons.
-            </li>
-        </ul>
     </p>
     <p>
         To learn more about the <strong>scope</strong> of <em>Review Commons</em> and its <strong>review process</strong>, consult our <a href="cgi-bin/main.plex?form_type=display_auth_instructions">Guidelines for Authors</a> and <a href="cgi-bin/main.plex?form_type=display_rev_instructions">Guidelines for Reviewers</a>.
@@ -21,17 +13,32 @@
         This site allows you to submit manuscripts to <em>Review Commons</em> and monitor the status of your submission. If at any time you need assistance, please contact the journal office at <a href="mailto:contact@reviewcommons.org">contact@reviewcommons.org</a>
     </p>
     <p>
-        <span style="font-size: 13pt; font-family: Helvetica, sans-serif; color: red;"><strong>Submitting a preprint or a manuscript for peer-review by <em>Review Commons</em> implies that it reports unpublished research and that neither itself, nor parts of it, have been published or are under consideration for publication in a journal.</strong></span>
-    </p>
-    <p>
-        There is no need to follow a particular journal format to submit to Review Commons.
+        There is no need to follow a particular journal format to submit to <em>Review Commons</em>.
     </p>
     <p>
         An initial editorial assessment will be carried out by the Managing Editor in consultation with the Advisory Board to select manuscripts that will be peer reviewed.
     </p>
-
-    <div style="border-top: none; border-right: none; border-left: none; border-image: initial; border-bottom: 1pt solid windowtext; padding: 0cm 0cm 1pt;"> 
-      <p>#ms_type_select_text</p> 
-    </div> 
-    <p><input type="hidden" value="submit_ms" name="form_type" /> <input type="submit" value="Continue" name="Continue" /> </p> 
-  </form>
+ <span style="font-size: 11pt; font-family: Helvetica, sans-serif; color: red;">
+    <p>
+      <strong>As of August 1, 2021, <i>Review Commons</i> will require all authors to post their manuscript as a preprint, prior to transfer to an affiliate journal. In return, all the affiliate journals provide authors with scooping protection from the date of posting of the preprint. Note that posting of the reviews ('refereed preprint') remains optional at this time. See our <a href="https://reviewcommons.msubmit.net/cgi-bin/main.plex?form_type=display_auth_instructions">guidelines</a> for further details on these policies.</strong>
+    </p>
+   <p>
+     Note: at a later stage, once the peer review process is complete, authors are provided with the opportunity and strongly encouraged to post the referee comments and a reply to the comments alongside the preprint.
+  </p>
+  <p>
+    If you already have a preprint posted, it is easier for you to transfer the preprint to <em>Review Commons</em> through the <em>bioRxiv</em> or <em>medRixv</em> submission systems (<a href="https://submit.biorxiv.org/">https://submit.biorxiv.org/</a> and <a href="https://submit.medrxiv.org/">https://submit.medrxiv.org/</a>). The files will then be automatically transferred, and you do not need to reenter author information.
+  </p>
+  <p>
+    If you prefer to submit your manuscript directly, please proceed through the next steps. You will also be given the opportunity to post your manuscript as a preprint during submission.
+  </p>
+</span>
+<div style="border-top: none; border-right: none; border-left: none; border-image: initial; border-bottom: 1pt solid windowtext; padding: 0cm 0cm 1pt;">
+    <p>#ms_type_select_text</p> 
+</div> 
+<p>
+    <input type="hidden" value="#ms_id" name="ms_id" />
+    <input type="hidden" value="#ms_rev_no" name="ms_rev_no" />
+    <input type="hidden" value="submit_ms" name="form_type" />
+    <input type="submit" value="Continue" name="Continue" />
+</p> 
+</form>
