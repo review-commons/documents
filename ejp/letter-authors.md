@@ -1,6 +1,6 @@
 {$date}
  
-RE: {\$journal_name} Refereed Preprint #{$ms_nm}
+RE: Review Commons Refereed Preprint #{$ms_nm}
  
 {$corr_auth_full_addr}
  
