@@ -15,7 +15,6 @@ As of 1 August 2021, Review Commons will require all manuscripts to be posted as
 
 If you have not yet posted your manuscript as a preprint at the time of transfer to an affiliate, you will have the option to do so via the Review Commons submission system.
 
-
 To access your manuscript online and proceed to the next steps, please use the link below:
 
 {$revise_ms_link}
