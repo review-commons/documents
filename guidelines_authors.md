@@ -11,7 +11,8 @@ __Note:__ a version-controlled version of these guidelines is maintained at http
 4. Mandatory posting of the preprint
 5. Scooping protection
 6. Posting the reviews
-7. Submitting to an affiliate journal
+7. Review challenge procedure
+8. Submitting to an affiliate journal
 
 
 # Initial submission
@@ -19,13 +20,16 @@ __Note:__ a version-controlled version of these guidelines is maintained at http
 There are 2 routes to submit a research manuscript to _Review Commons_:
 
 - The recommended route is first to post the manuscript as a preprint on bioRxiv or medRxiv. The preprint can then be easily transferred directly from the bioRxiv or medRxiv submission system to _Review Commons_. 
-- It is also possible to submit the manuscript directly to _Review Commons_ (at http://reviewcommons.msubmit.net). Note that this route still allows subsequently to post the manuscript to bioRxiv or medRxiv.
+- It is also possible to submit the manuscript directly to _Review Commons_ (at http://reviewcommons.msubmit.net). Review Commons requires that the manuscript is posted to bioRxiv or medRxiv prior to transfer to an affiliate journal.
 
 Submitting a preprint or a manuscript for peer-review by _Review Commons_ implies that it reports unpublished work and that neither it, nor parts of it, have been published or are under consideration for publication in a journal.
 
 There is no need to comply with a particular journal format to submit to _Review Commons_. 
 
-__As of August 1, 2021,*Review Commons* will require all authors to post their manuscript as a preprint, prior to transfer to an affiliate journal. In return, all the affiliate journals provide authors with scooping protection from the date of posting of the preprint. Note that posting of the reviews ('refereed preprint') remains optional at this time.__ See below further details on these policies ([posting of the preprint](#Mandatory-posting-of-the-preprint), [scooping protection](#Scooping-protection), [posting the reviews](#Posting-the-reviews))
+__As of May 1, 2022, reviews and authors' reply will be publicly posted by Review Commons to bioRxiv or medRxiv when authors transfer their manuscript to the first affiliate journal.__ See below further details on the related policies:
+- [Posting the reviews](#Posting-the-reviews)
+- [Review challenge procedure](#Review-challenge-procedure)
+- [Scooping protection](#Scooping-protection)
 
 
 # Scope and editorial assessment
@@ -92,7 +96,20 @@ Note that scooping protection does NOT apply to related papers with an overlappi
 
 # Posting the reviews
 
-Once the full set of reviews is available, authors have the option to trigger the posting of the reviews to bioRxiv or medRxiv to make them publicly visible. Authors may also simultaneously post their response to the reviewers, which will appear alongside the reviews. If the authors choose this option and confirm the DOI of their preprint, the reviews and their response will be visible alongside the preprint of the manuscript. Note that the reviews are posted by _Review Commons_ on behalf of the authors, which guarantees that the full set of reviews is posted and that their content cannot be altered. 
+Review Commons will post the reviews and the authors' responseon on bioRxiv or medRxiv only when the authors transfer their manuscript to the first affiliate journal. The reviews and the authors' response will appear alongside the peer reviewed preprint. 
+
+If authors wish to submit their manuscript to a journal outside of the consoritium of affilate journals, the manuscript should be formally withdrawn from consideration by Review Commons. Review Commons will communicate the reviews to external journals only in agreement with the reviewers and provided the authors agree with Review Commons posting the preprint.
+
+
+# Review challenge procedure
+
+Review Commons editors check the content and wording of referee reports before forwarding the reviews to the authors. If authors strongly feel that serious issues remain, it is possible to formally request for a specific report to be withdrawn or amended before before making the reviews public and transferring the manuscript to an affiliate journal. Such requests should be addressed to the editors of Review Commons (office@reviewcommons.org) with a detailed description of the reasons motivating the challenge.
+
+The editors of Review Commons will only consider challenges in exceptional cases that involve clearly inappropriately worded content. Scientific disagreement or controversies about the interpretation of the research, its novelty or significance are not sufficient grounds for challenging a review and should be addressed in the authors’ reply.
+
+When an appeal is considered, the Review Commons editors will offer the authors a call to discuss their case.
+
+A decision on the appeal will be made by the editors of Review Commons, in consultation with members of the Advisory Board or the other reviewers when necessary.
 
 
 # Submitting to an affiliate journal
@@ -126,6 +143,6 @@ If the first-choice journal is not interested in the paper or if the authors dec
 
 Authors can alternatively decide to take their refereed preprint to any journal outside of the affiliate journals. In such a case, the editor of that journal can approach the platform for the referee names and referee reports. 
 
-The authors can withdraw from _Review Commons_ (but not from bioRxiv) at any point in the process and submit directly to a journal of their choice (including any one of the affiliate journals). The partner journal will not be informed of the history of a manuscript submission at the other partner journals, so decisions are not prejudiced in any way. The only exception is that if there are ethics or research integrity concerns, a manuscript may be flagged to ensure attention is paid by partner journals to flagged issues.
+The partner journal will not be informed of the history of a manuscript submission at the other partner journals, so decisions are not prejudiced in any way. The only exception is that if there are ethics or research integrity concerns, a manuscript may be flagged to ensure attention is paid by partner journals to flagged issues.
 
 The authors also can decide not to pursue a journal publication but still have their refereed preprint transferred to bioRxiv.
