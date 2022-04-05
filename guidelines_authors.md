@@ -26,7 +26,7 @@ Submitting a preprint or a manuscript for peer-review by _Review Commons_ implie
 
 There is no need to comply with a particular journal format to submit to _Review Commons_. 
 
-__As of May 1, 2022, reviews and authors' reply will be publicly posted by Review Commons to bioRxiv or medRxiv when authors transfer their manuscript to the first affiliate journal.__ See below further details on the related policies:
+__For all manuscripts submitted after May 1, 2022, the reviews and authors' reply will be publicly posted by Review Commons to bioRxiv or medRxiv when authors transfer their manuscript to the first affiliate journal.__ See below further details on the related policies:
 - [Posting the reviews](#Posting-the-reviews)
 - [Review challenge procedure](#Review-challenge-procedure)
 - [Scooping protection](#Scooping-protection)
@@ -96,7 +96,7 @@ Note that scooping protection does NOT apply to related papers with an overlappi
 
 # Posting the reviews
 
-Review Commons will post the reviews and the authors' responseon on bioRxiv or medRxiv only when the authors transfer their manuscript to the first affiliate journal. The reviews and the authors' response will appear alongside the peer reviewed preprint. 
+Review Commons will post the reviews and the authors' response on bioRxiv or medRxiv when the authors transfer their manuscript to the first affiliate journal. The reviews and the authors' response will appear alongside the peer reviewed preprint. 
 
 If authors wish to submit their manuscript to a journal outside of the consoritium of affilate journals, the manuscript should be formally withdrawn from consideration by Review Commons. Review Commons will communicate the reviews to external journals only in agreement with the reviewers and provided the authors agree with Review Commons posting the preprint.
 
