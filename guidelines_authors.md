@@ -76,8 +76,6 @@ Review Commons requires all authors to post their manuscript on a preprint serve
 
 Review Commons manuscripts should be posted as soon as possible as a preprint and at the latest at the moment of submission to one of the affiliate journals. It will not be possible to transfer a peer reviewed *Review Commons* manuscript to an affiliate journal without posting the preprint. 
 
-Note that posting of the reviews ('refereed preprint') remains optional (see below) at this time.
-
 Authors who however would prefer not to have their manuscript posted as a preprint can withdraw their work from *Review Commons* and proceed with conventional submission to any journals.
 
 
