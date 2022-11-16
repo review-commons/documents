@@ -54,10 +54,10 @@ Provide a short summary of the findings and key conclusions (including methodolo
 
 Major comments:
 
-- Are the key conclusions convincing?
-- Should the authors qualify some of their claims as preliminary or speculative, or remove them altogether?
-- Would additional experiments be essential to support the claims of the paper? Request additional experiments only where necessary for the paper as it is, and do not ask authors to open new lines of experimentation.
-- Are the suggested experiments realistic in terms of time and resources? It would help if you could add an estimated cost and time investment for substantial experiments.
+- Are the claims and the conclusions supported by the data or do they require additional experiments or analyses to support them?
+- Please request additional experiments only if they are essential for the conclusions. Alternatively, ask the authors to qualify their claims as preliminary or speculative, or to remove them altogether.
+- If you have constructive further reaching suggestions that could significantly improve the study but would open new lines of investigations, please label them as "OPTIONAL".
+- Are the suggested experiments realistic in terms of time and resources? It would help if you could add an estimated time investment for substantial experiments.
 - Are the data and the methods presented in such a way that they can be reproduced?
 - Are the experiments adequately replicated and statistical analysis adequate?
 
@@ -68,13 +68,18 @@ Minor comments:
 - Are the text and figures clear and accurate?
 - Do you have suggestions that would help the authors improve the presentation of their data and conclusions?  
 
+
 SIGNIFICANCE
 ============
 
-- Describe the nature and significance of the advance (e.g. conceptual, technical, clinical) for the field.
-- Place the work in the context of the existing literature (provide references, where appropriate). 
-- State what audience might be interested in and influenced by the reported findings.
-- Define your field of expertise with a few keywords to help the authors contextualize your point of view. Indicate if there are any parts of the paper that you do not have sufficient expertise to evaluate.
+Provide contextual information to readers (editors and researchers) about the novelty of the study, its value for the field and the communities that might be interested.
+
+The following aspects are important:
+
+- General assessment: provide a summary of the strengths and limitations of the study. What are the strongest and most important aspects? What aspects of the study should be improved or could be developed?
+- Advance: compare the study to the closest related results in the literature or highlight results reported for the first time to your knowledge; does the study extend the knowledge in the field and in which way? Describe the nature of the advance and the resulting insights (for example: conceptual, technical, clinical, mechanistic, functional,...).
+- Audience: describe the type of audience ("specialized", "broad", "basic research", "translational/clinical", etc...) that will be interested or influenced by this research; how will this research be used by others; will it be of interest beyond the specific field?
+- Please define your field of expertise with a few keywords to help the authors contextualize your point of view. Indicate if there are any parts of the paper that you do not have sufficient expertise to evaluate.
 ```
 
 
