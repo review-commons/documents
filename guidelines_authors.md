@@ -20,16 +20,13 @@ __Note:__ a version-controlled version of these guidelines is maintained at http
 There are 2 routes to submit a research manuscript to _Review Commons_:
 
 - The recommended route is first to post the manuscript as a preprint on bioRxiv or medRxiv. The preprint can then be easily transferred directly from the bioRxiv or medRxiv submission system to _Review Commons_. 
-- It is also possible to submit the manuscript directly to _Review Commons_ (at http://reviewcommons.msubmit.net). Review Commons requires that the manuscript is posted to bioRxiv or medRxiv prior to transfer to an affiliate journal.
+- It is also possible to submit the manuscript directly to _Review Commons_ (at http://reviewcommons.msubmit.net) and then post automatically the preprint on bioRxiv through the Review Commons system (please note that for technical reasons, this route is not available for posting to medRxiv).
+
+__Note: as of June 1, 2023, *Review Commons* will only peer review manuscripts for which a preprint is publicly available.__
 
 Submitting a preprint or a manuscript for peer-review by _Review Commons_ implies that it reports unpublished work and that neither it, nor parts of it, have been published or are under consideration for publication in a journal.
 
 There is no need to comply with a particular journal format to submit to _Review Commons_. 
-
-__As of June 1, 2022, the reviews and authors' reply will be publicly posted by _Review Commons_ to bioRxiv or medRxiv when authors transfer their manuscript to the first affiliate journal.__ See below further details on the related policies:
-- [Posting the reviews](#Posting-the-reviews)
-- [Review challenge procedure](#Review-challenge-procedure)
-- [Scooping protection](#Scooping-protection)
 
 
 # Scope and editorial assessment
@@ -76,11 +73,7 @@ __*Review Commons* reserves the right to reject manuscripts at any point if ethi
 
 # Mandatory posting of the preprint
 
-Review Commons requires all authors to post their manuscript on a preprint server. In exchange, all the journals affiliated with *Review Commons* will provide authors with scooping protection from the date of posting of the preprint. 
-
-Review Commons manuscripts should be posted as soon as possible as a preprint and at the latest at the moment of submission to one of the affiliate journals. It will not be possible to transfer a peer reviewed *Review Commons* manuscript to an affiliate journal without posting the preprint. 
-
-Authors who however would prefer not to have their manuscript posted as a preprint can withdraw their work from *Review Commons* and proceed with conventional submission to any journals.
+*Review Commons* requires all authors to post their manuscript on a preprint server at submission (see above). In exchange, all the journals affiliated with *Review Commons* will provide authors with scooping protection from the date of posting of the preprint. 
 
 
 # Scooping protection
@@ -96,7 +89,7 @@ Note that scooping protection does NOT apply to related papers with an overlappi
 
 Review Commons will post the reviews and the authors' response on bioRxiv or medRxiv when the authors transfer their manuscript to the first affiliate journal. The reviews and the authors' response will appear alongside the peer reviewed preprint. 
 
-If authors wish to submit their manuscript to a journal outside of the consoritium of affilate journals, the manuscript should be formally withdrawn from consideration by Review Commons. Review Commons will communicate the reviews to external journals only in agreement with the reviewers and provided the authors agree with Review Commons posting the preprint.
+If authors wish to submit their manuscript to a journal outside of the consoritium of affilate journals, the manuscript should be formally withdrawn from consideration by Review Commons. Review Commons will communicate the reviews to external journals only in agreement with the reviewers.
 
 
 # Review challenge procedure
