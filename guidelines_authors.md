@@ -22,7 +22,7 @@ There are 2 routes to submit a research manuscript to _Review Commons_:
 - The recommended route is first to post the manuscript as a preprint on bioRxiv or medRxiv. The preprint can then be easily transferred directly from the bioRxiv or medRxiv submission system to _Review Commons_. 
 - It is also possible to submit the manuscript directly to _Review Commons_ (at http://reviewcommons.msubmit.net) and then post automatically the preprint on bioRxiv through the Review Commons system (please note that for technical reasons, this route is not available for posting to medRxiv).
 
-__Note: as of June 1, 2023, *Review Commons* will only peer review manuscripts for which a preprint is publicly available.__
+__Note: as of July 1, 2023, *Review Commons* will only peer review manuscripts for which a preprint is publicly available.__
 
 Submitting a preprint or a manuscript for peer-review by _Review Commons_ implies that it reports unpublished work and that neither it, nor parts of it, have been published or are under consideration for publication in a journal.
 
