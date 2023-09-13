@@ -55,9 +55,9 @@ The initial assessment will be based on the following criteria:
 
 - Only research papers are considered (no reviews/commentaries/editorials).
 - Manuscripts must have fully-described materials & methods, fully described data figures, comprehensive references and rigorous introduction, results, and conclusions.
-- The topic falls within the scope of *Review Commons* (see above)
-- The findings represent a significant advance in any one of the above fields, including reports of new findings, methodological developments and resources.
-- Confirmatory, ‘null’ or refuting results will be considered if they provide significant value to the field. 
+- The topic falls within the scope of Review Commons (see above)
+- There is a reasonable likelihood that expert reviewers will be available to conduct a thorough review of the study. 
+- The study represents a sufficient advance in the field such that the resulting public reviews will be informative and helpful to other researchers.
 
 __*Review Commons* reserves the right to reject manuscripts at any point if ethical, biosecurity or scientific integrity issues arise. In serious cases, _Review Commons_ may post a note of editorial concern next to the public reviews.__
 
