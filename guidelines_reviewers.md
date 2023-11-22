@@ -19,20 +19,23 @@ __Note:__ a version-controlled version of these guidelines is maintained at http
 
 # Purpose
 
-The primary purpose of the peer-review process at _Review Commons_ is to provide an in-depth analysis of a scientific study in order to help the authors improve their paper by strengthening the rigor of the work and the clarity of the presentation. 
-
-_Review Commons_ also requests reviewers to assess how the study advances the field rather than establishing its fit for a particular journal. The reviews should be scholarly in tone and content will be made public (by default without referee names) unless the authors opt out. As such, reviews should also be useful to all potential readers to better understand the work and its context and to journal editors to make informed decisions. 
+Review Commons makes the peer review process public (by default without referee names) to provide an informative resource to researchers interested in the reported findings and to make the scientific discourse transparent. The peer review is run in a journal-agnostic way and is intended to:
+- obtain critical views (”review”) from experts in the field (“peers”),
+- assess the validity of the study, its strengths, and weaknesses,
+- provide constructive feedback to help authors improve their study,
+- place the study in the context of the existing scientific knowledge.
 
 
 # Writing the report
 
-_Review Commons_ referee reports are expected to be scholarly communications intended to advance scientific discourse. Authors can make reviews public, either at the stage of author-requested posting of a Refereed Preprint (the term for the paper, reviews, and author response posted on bioRxiv) or at the stage of journal publication. Please provide a clear, professional and impartial analysis that you would employ if you were signing the review, even if you are not (signing of reports is encouraged but not required by _Review Commons_). Be mindful of potential sources of bias with regard to the authors, including gender, ethnicity, geographical location, seniority, reputation in your field of expertise. The Managing Editor has the right to exclude reviews that are deemed unprofessional in tone or content. 
+_Review Commons_ referee reports are expected to be scholarly communications intended to advance scientific discourse. Please provide a clear, professional and impartial analysis that you would employ if you were signing the review, even if you are not (signing of reports is encouraged but not required by _Review Commons_). Be mindful of potential sources of bias with regard to the authors, including gender, ethnicity, geographical location, seniority, reputation in your field of expertise. The Managing Editor has the right to exclude reviews that are deemed unprofessional in tone or content. 
 
 Hallmarks of a good referee report are:
 
 - Timely delivery
-- Critical and impartial analysis with substantiated arguments.   
-- Constructive and realistic suggestions.
+- Critical and impartial analysis with substantiated arguments
+- Constructive and realistic suggestions
+- Adequate and accurate references to current knowledge and literature
 
 
 ## Co-reviewing
