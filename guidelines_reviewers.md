@@ -28,7 +28,7 @@ Review Commons makes the peer review process public (by default without referee 
 
 # Writing the report
 
-_Review Commons_ referee reports are expected to be scholarly communications intended to advance scientific discourse. Please provide a clear, professional and impartial analysis that you would employ if you were signing the review, even if you are not (signing of reports is encouraged but not required by _Review Commons_). Be mindful of potential sources of bias with regard to the authors, including gender, ethnicity, geographical location, seniority, reputation in your field of expertise. The Managing Editor has the right to exclude reviews that are deemed unprofessional in tone or content. 
+_Review Commons_ referee reports are expected to be scholarly in tone and content. Please provide a clear, professional and impartial analysis that you would employ if you were signing the review, even if you are not (signing of reports is encouraged but not required by _Review Commons_). Be mindful of potential sources of bias with regard to the authors, including gender, ethnicity, geographical location, seniority, reputation in your field of expertise. The Managing Editor has the right to exclude reviews that are deemed unprofessional. 
 
 Hallmarks of a good referee report are:
 
