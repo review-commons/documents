@@ -13,6 +13,7 @@ __Note:__ a version-controlled version of these guidelines is maintained at http
 6. Posting the reviews
 7. Review challenge procedure
 8. Submitting to an affiliate journal
+9. Review Commons Rapid Commitment (RC-RC)
 
 
 # Initial submission
@@ -137,3 +138,10 @@ Authors can alternatively decide to take their refereed preprint to any journal 
 The partner journal will not be informed of the history of a manuscript submission at the other partner journals, so decisions are not prejudiced in any way. The only exception is that if there are ethics or research integrity concerns, a manuscript may be flagged to ensure attention is paid by partner journals to flagged issues.
 
 The authors also can decide not to pursue a journal publication but still have their refereed preprint transferred to bioRxiv.
+
+# Review Commons Rapid Commitment (RC-RC)
+The RC-RC (Review Commons Rapid Commitment) process helps authors find a suitable journal for their manuscript. Authors can opt in by selecting “Yes” when prompted during the submission process.
+
+For authors who have opted in, if their manuscript is declined by two affiliate journals, Review Commons will consult with the editors of Life Science Alliance and FEBS Open Bio to assess whether the manuscript might be suitable for their journals, based on the reviews and the authors’ response.
+
+If the manuscript is of interest, these editors will provide a commitment within 48 hours with specific feedback on what would be required for publication. Authors are under no obligation to accept any offer and remain free to choose any journal for subsequent transfers.
